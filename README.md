@@ -1,6 +1,4 @@
-Creating a profile README is a great way to showcase your skills, projects, and interests on GitHub. Below is a template for your profile README. You can customize it further based on your preferences.
 
-```markdown
 # Hi there, I'm Palodioup! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=palodioup&color=brightgreen)
