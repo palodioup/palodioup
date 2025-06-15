@@ -1,5 +1,3 @@
 ## Hello 👋 I'm palodioup
-
-<img alt="my stats" align= "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=palodioup"/>
-
-<img alt="top lang" align= "left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palodioup&layout=compact"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=palodioup&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=palodioup&theme=dark)
