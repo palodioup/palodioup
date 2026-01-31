@@ -22,12 +22,6 @@ Welcome to my GitHub profile! I'm an enthusiastic developer with a passion for w
 - ✔️ Followers: 2
 - 🎯 Pull Requests: 3
 
-## 📫 Get in Touch
-- LinkedIn: [Connect with me!](https://www.linkedin.com/in/palodioup)
-- Email: [Send me an email!](mailto:palodioup@gmail.com)
-
----
-
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=palodioup)](https://git.io/streak-stats)
