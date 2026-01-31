@@ -1,58 +1,39 @@
-## Hi there! 👋
+# Hi there, I'm palodioup! 👋
+[![](https://img.shields.io/badge/GitHub-palodioup-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)](https://github.com/palodioup)
 
-### I'm Palodioup, a passionate developer with a knack for web development
+Welcome to my GitHub profile! I'm an enthusiastic developer with a passion for web development and cryptocurrency. Let's dive into some insights about my GitHub activity and projects.
 
----
+## 🚀 Activity and Interests
+- 🌟 Owned Repositories: 46
+- 💼 Main Languages: JavaScript, HTML, Python, TypeScript
+- 💡 Interesting Projects: Cryptofy, Cryptofy-2.0
 
-## 📊 Overview
+## 💻 Coding Habits
+- 🔥 Total Commits: 94
+- 🔗 Pull Requests: 5
 
-- 🌟 Total Public Repositories: 46
-- ⭐ Total Stars: 40
-- 🚀 Total Commits: 94
-- 🌐 Languages: JavaScript, Vue, HTML, Python, TypeScript
-- 👥 Followers: 2
-- 🤝 Following: 5
-- 🌟 Most Starred Repositories: 
-  - [School Management System](https://github.com/palodioup/SCHOOL-MANAGEMENT-SYSTEM)
-  - [Cryptofy](https://github.com/palodioup/Cryptofy)
+## 🌟 Highlighted Projects
+- Cryptofy
+- Cryptofy-2.0
+- NPM-TS-PR
+- SCHOOL-MANAGEMENT-SYSTEM
 
-## 🔧 Skills and Interests
+## 🌐 GitHub Presence
+- ✔️ Followers: 2
+- 🎯 Pull Requests: 3
 
-- Proficient in JavaScript, HTML, and CSS
-- Experienced with various technologies including Vue and Python
-- Shows a dedication to regular maintenance with a diverse skill set
-- A strong focus on web development and creating innovative projects
-
-## ⚡ Project Contributions
-
-- Total PRs: 3
-- Total Contributions: 3
-- Active involvement in collaborative projects like palodioup/palodioup and palodioup/NPM-TS-PR
-- Demonstrates a commitment to engaging with the GitHub community
-
-## 🤝 Collaboration
-
-- Eager to work with other developers and creators
-- Previous contributions to projects like Cryptofy-2.0 and Delco-shopping
-- Aiming to create projects that align with industry trends and user needs
-
-## 📨 Contact Me
-
-- For any inquiries or collaboration opportunities: reach me at [palodioup@gmail.com](mailto:palodioup@gmail.com)
-- Check out my profile on GitHub for more insights: [palodioup's GitHub Profile](https://github.com/palodioup)
+## 📫 Get in Touch
+- LinkedIn: [Connect with me!](https://www.linkedin.com/in/palodioup)
+- Email: [Send me an email!](mailto:palodioup@gmail.com)
 
 ---
 
-**GitHub Stats**
+## GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=palodioup)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palodioup)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=palodioup)](https://github.com/palodioup)
-
-[![Github Streak](https://streak-stats.demolab.com/?user=palodioup)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=palodioup)](https://git.io/streak-stats)
 
 ---
 
-Feel free to explore more of my repositories and collaborations to get a better understanding of my skills and interests. Let's connect and create something amazing together! 🚀
+Let's connect and explore more about my projects! Feel free to reach out for collaborations or to chat about technology. Thank you for visiting my GitHub profile! 🌟
+
+Just love to code 🚀
