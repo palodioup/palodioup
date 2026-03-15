@@ -21,8 +21,6 @@ I am a learning but growing developer
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=palodioup&theme=default" alt="GitHub Streak" />
 
-<img src="https://profile-counter.glitch.me/palodioup/count.svg?" alt="visitors count" />
-
 ## GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=palodioup" alt="trophy" />
