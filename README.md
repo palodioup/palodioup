@@ -2,6 +2,7 @@
 ### Full Stack Developer
 
 I am a learning but growing developer
+And try my newest project and install the app!!! https://pulsechat-20-production.up.railway.app
 
 ## Skills
 
