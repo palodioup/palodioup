@@ -3,7 +3,7 @@
 
 I am a learning but growing developer
 And try my newest project and install the app!!! https://pulsechat-20-production.up.railway.app
-![Profile Views](https://komarev.com/ghpvc/?username=palodioup)
+
 
 ## Skills
 
@@ -31,16 +31,5 @@ And try my newest project and install the app!!! https://pulsechat-20-production
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=palodioup&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
-## About Me
-```js
-const palodioup = {
-  pronouns: "He" | "Him",
-  code: ["JavaScript", "CSS", "HTML"],
-  currentlyLearning: ["Vue.js", "React"],
-  interests: ["Real-Time Applications", "Cryptocurrency Data", "Web Development"],
-  location: "Lagos, Nigeria",
-  contact: {
-    email: "example@gmail.com"
-  }
-};
+![Profile Views](https://komarev.com/ghpvc/?username=palodioup)
 
